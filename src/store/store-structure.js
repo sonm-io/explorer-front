@@ -1,3 +1,3 @@
-export tcomb from 'tcomb';
+import tcomb from 'tcomb';
 
 const storeStructure = tcomb({});
